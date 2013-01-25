@@ -23,6 +23,6 @@
         android:paddingLeft="5dip"
         android:paddingRight="5dip"
         android:text="Chart"
-        android:textColor="#666"/>
+        android:textColor="#333"/>
                                              
 </RelativeLayout>         
